@@ -1,0 +1,14 @@
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\bin\Debug\net8.0\ContactApp(Miniproj-3).exe
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\bin\Debug\net8.0\ContactApp(Miniproj-3).deps.json
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\bin\Debug\net8.0\ContactApp(Miniproj-3).runtimeconfig.json
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\bin\Debug\net8.0\ContactApp(Miniproj-3).dll
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\bin\Debug\net8.0\ContactApp(Miniproj-3).pdb
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\obj\Debug\net8.0\ContactApp(Miniproj-3).GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\obj\Debug\net8.0\ContactApp(Miniproj-3).AssemblyInfoInputs.cache
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\obj\Debug\net8.0\ContactApp(Miniproj-3).AssemblyInfo.cs
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\obj\Debug\net8.0\ContactApp(Miniproj-3).csproj.CoreCompileInputs.cache
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\obj\Debug\net8.0\ContactApp(Miniproj-3).dll
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\obj\Debug\net8.0\refint\ContactApp(Miniproj-3).dll
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\obj\Debug\net8.0\ContactApp(Miniproj-3).pdb
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\obj\Debug\net8.0\ContactApp(Miniproj-3).genruntimeconfig.cache
+D:\Assignments\ContactApp(Miniproj-3)\ContactApp(Miniproj-3)\obj\Debug\net8.0\ref\ContactApp(Miniproj-3).dll

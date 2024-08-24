@@ -1,0 +1,177 @@
+[
+    {
+        "UserId": 1,
+        "FName": "Raman",
+        "LName": "Obrien",
+        "IsAdmin": true,
+        "IsActive": false,
+        "contacts": [
+            {
+                "ContactId": 301,
+                "FName": "Jigs",
+                "LName": "Kk",
+                "IsActive": false,
+                "UserId": 0,
+                "Details": []
+            }
+        ]
+    },
+    {
+        "UserId": 2,
+        "FName": "sk",
+        "LName": "kk",
+        "IsAdmin": true,
+        "IsActive": false,
+        "contacts": []
+    },
+    {
+        "UserId": 3,
+        "FName": "Rio",
+        "LName": "Jama",
+        "IsAdmin": false,
+        "IsActive": true,
+        "contacts": [
+            {
+                "ContactId": 666,
+                "FName": "Shreya",
+                "LName": "Parman",
+                "IsActive": false,
+                "UserId": 0,
+                "Details": []
+            },
+            {
+                "ContactId": 11,
+                "FName": "Mridul",
+                "LName": "Sharma",
+                "IsActive": true,
+                "UserId": 0,
+                "Details": []
+            }
+        ]
+    },
+    {
+        "UserId": 4,
+        "FName": "Allen",
+        "LName": "Biden",
+        "IsAdmin": false,
+        "IsActive": true,
+        "contacts": [
+            {
+                "ContactId": 555,
+                "FName": "Laaa",
+                "LName": "Baq",
+                "IsActive": true,
+                "UserId": 0,
+                "Details": []
+            },
+            {
+                "ContactId": 8,
+                "FName": "mk",
+                "LName": "lo",
+                "IsActive": false,
+                "UserId": 0,
+                "Details": []
+            }
+        ]
+    },
+    {
+        "UserId": 5,
+        "FName": "pio",
+        "LName": "leo",
+        "IsAdmin": false,
+        "IsActive": true,
+        "contacts": [
+            {
+                "ContactId": 90,
+                "FName": "rima",
+                "LName": "sima",
+                "IsActive": true,
+                "UserId": 0,
+                "Details": []
+            }
+        ]
+    },
+    {
+        "UserId": 6,
+        "FName": "Pluto",
+        "LName": "Obrien",
+        "IsAdmin": true,
+        "IsActive": true,
+        "contacts": [
+            {
+                "ContactId": 7,
+                "FName": "Priyaaa",
+                "LName": "Patil",
+                "IsActive": true,
+                "UserId": 0,
+                "Details": []
+            },
+            {
+                "ContactId": 13,
+                "FName": "Samruddhi",
+                "LName": "Bhadarge",
+                "IsActive": true,
+                "UserId": 0,
+                "Details": []
+            }
+        ]
+    },
+    {
+        "UserId": 101,
+        "FName": "A",
+        "LName": "B",
+        "IsAdmin": false,
+        "IsActive": true,
+        "contacts": [
+            {
+                "ContactId": 9,
+                "FName": "Hello",
+                "LName": "Ved",
+                "IsActive": false,
+                "UserId": 0,
+                "Details": []
+            }
+        ]
+    },
+    {
+        "UserId": 102,
+        "FName": "Ia",
+        "LName": "la",
+        "IsAdmin": true,
+        "IsActive": true,
+        "contacts": [
+            {
+                "ContactId": 12,
+                "FName": "Rosh",
+                "LName": "Poojari",
+                "IsActive": true,
+                "UserId": 0,
+                "Details": []
+            }
+        ]
+    },
+    {
+        "UserId": 7,
+        "FName": "Sarrr",
+        "LName": "KK",
+        "IsAdmin": false,
+        "IsActive": false,
+        "contacts": []
+    },
+    {
+        "UserId": 8,
+        "FName": "Sarah",
+        "LName": "Sarosh",
+        "IsAdmin": true,
+        "IsActive": true,
+        "contacts": []
+    },
+    {
+        "UserId": 9,
+        "FName": "Joe",
+        "LName": "Biden",
+        "IsAdmin": true,
+        "IsActive": true,
+        "contacts": []
+    }
+]

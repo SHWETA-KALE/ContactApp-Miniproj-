@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignments\\ContactApp(Miniproj-3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\models\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\models\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\repository\\contactdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\repository\\contactdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\repository\\contactrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\repository\\contactrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\controller\\contactdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\controller\\contactdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\controller\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\controller\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\assets\\mycontactdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\assets\\mycontactdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\assets\\mycontacts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\assets\\mycontacts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\assets\\myusers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\assets\\myusers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\models\\contact_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\models\\contact_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\services\\contactdetailsserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\services\\contactdetailsserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\exceptions\\contactisinactiveexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\exceptions\\contactisinactiveexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\services\\contactstorageserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\services\\contactstorageserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\services\\datastorageserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\services\\datastorageserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Assignments\\ContactApp(Miniproj-3)\\Assets\\myUsers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\myUsers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Assignments\\ContactApp(Miniproj-3)\\Assets\\myContactDetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\myContactDetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Assignments\\ContactApp(Miniproj-3)\\Assets\\myContacts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\myContacts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\exceptions\\contactdetailsdoesnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\exceptions\\contactdetailsdoesnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|d:\\assignments\\contactapp(miniproj-3)\\contactapp(miniproj-3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D98ADD-7061-462F-ADB3-C531B9A2D273}|ContactApp(Miniproj-3)\\ContactApp(Miniproj-3).csproj|solutionrelative:contactapp(miniproj-3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Controller\\UserController.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Controller\\UserController.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Controller\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:00:03.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactDetailsController.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Controller\\ContactDetailsController.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Controller\\ContactDetailsController.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Controller\\ContactDetailsController.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Controller\\ContactDetailsController.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAuwMQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:32:36.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Controller\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Controller\\ContactController.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Controller\\ContactController.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Controller\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:42:16.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "myContactDetails.json",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Assets\\myContactDetails.json",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Assets\\myContactDetails.json",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Assets\\myContactDetails.json",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Assets\\myContactDetails.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACzAgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T10:08:37.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactDetailsRepo.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Repository\\ContactDetailsRepo.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Repository\\ContactDetailsRepo.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Repository\\ContactDetailsRepo.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Repository\\ContactDetailsRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:31:06.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Repository\\UserRepo.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Repository\\UserRepo.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAYwIwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:58:51.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactRepo.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Repository\\ContactRepo.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Repository\\ContactRepo.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Repository\\ContactRepo.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Repository\\ContactRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:28:58.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Models\\MainMenu.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Models\\MainMenu.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Models\\MainMenu.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Models\\MainMenu.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:00:58.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "myContacts.json",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Assets\\myContacts.json",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Assets\\myContacts.json",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Assets\\myContacts.json",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Assets\\myContacts.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADVBwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T04:49:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "myUsers.json",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Assets\\myUsers.json",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Assets\\myUsers.json",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Assets\\myUsers.json",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Assets\\myUsers.json",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAJsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T15:17:16.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Models\\Contact.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Models\\Contact.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:45:29.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact_Details.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Models\\Contact_Details.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Models\\Contact_Details.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Models\\Contact_Details.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Models\\Contact_Details.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:45:34.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "myUsers.json",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\Assets\\myUsers.json",
+              "RelativeDocumentMoniker": "Assets\\myUsers.json",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\Assets\\myUsers.json",
+              "RelativeToolTip": "Assets\\myUsers.json",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwCkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T03:10:13.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactDetailsSerialization.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Services\\ContactDetailsSerialization.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Services\\ContactDetailsSerialization.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Services\\ContactDetailsSerialization.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Services\\ContactDetailsSerialization.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:39:51.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactStorageSerialization.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Services\\ContactStorageSerialization.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Services\\ContactStorageSerialization.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Services\\ContactStorageSerialization.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Services\\ContactStorageSerialization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:40:51.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactIsInActiveException.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Exceptions\\ContactIsInActiveException.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Exceptions\\ContactIsInActiveException.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Exceptions\\ContactIsInActiveException.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Exceptions\\ContactIsInActiveException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:44:17.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "myContactDetails.json",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\Assets\\myContactDetails.json",
+              "RelativeDocumentMoniker": "Assets\\myContactDetails.json",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\Assets\\myContactDetails.json",
+              "RelativeToolTip": "Assets\\myContactDetails.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T00:58:47.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactDetailsDoesNotExistException.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Exceptions\\ContactDetailsDoesNotExistException.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Exceptions\\ContactDetailsDoesNotExistException.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Exceptions\\ContactDetailsDoesNotExistException.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Exceptions\\ContactDetailsDoesNotExistException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:03:13.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "myContacts.json",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\Assets\\myContacts.json",
+              "RelativeDocumentMoniker": "Assets\\myContacts.json",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\Assets\\myContacts.json",
+              "RelativeToolTip": "Assets\\myContacts.json",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T23:56:08.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataStorageSerialization.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Services\\DataStorageSerialization.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Services\\DataStorageSerialization.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Services\\DataStorageSerialization.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Services\\DataStorageSerialization.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:27:50.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Program.cs",
+              "RelativeDocumentMoniker": "ContactApp(Miniproj-3)\\Program.cs",
+              "ToolTip": "D:\\Assignments\\ContactApp(Miniproj-3)\\ContactApp(Miniproj-3)\\Program.cs",
+              "RelativeToolTip": "ContactApp(Miniproj-3)\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:17:12.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
